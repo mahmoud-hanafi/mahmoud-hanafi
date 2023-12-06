@@ -15,4 +15,4 @@ Professional Experience:
 [SharedTech](https://www.sharedtech.com.sa/)     [Master works](https://master-works.sa/en)    [DMSEgypt](http://dmsegypt.net/)    [Kinetics](https://www.kineticsegypt.com/)
 
 Connect with me:
-[Mahmoud Hanafi](https://www.linkedin.com/in/mahmoud-hanafi-b4831717b/)
+<a href="https://www.linkedin.com/in/mahmoud-hanafi-b4831717b/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-hanafi" height="30" width="40" style="max-width: 100%;"></a>
