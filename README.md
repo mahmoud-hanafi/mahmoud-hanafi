@@ -15,4 +15,4 @@ Professional Experience:
 [SharedTech](https://www.sharedtech.com.sa/)     [Master works](https://master-works.sa/en)    [DMSEgypt](http://dmsegypt.net/)    [Kinetics](https://www.kineticsegypt.com/)
 
 Connect with me:
-Mahmoud mahmoudsayed_96 mahmoud-sayed-hassan mahmoudsayed96 user0331n
+
