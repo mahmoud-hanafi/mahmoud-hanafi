@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋, I'm Mahmoud Hanafi
 
-<!--
-**mahmoud-hanafi/mahmoud-hanafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have strong knowledge of Drupal back-end and front-end structure. I’m able to create complex custom solutions and alter existing contrib functionality as well. Oriented toward the most efficient and elegant solutions. Strongly self-motivated person.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in [SharedTech](https://www.sharedtech.com.sa/)
+- 🌱 I’m currently preparing for Acquia Certified Developer - Drupal 10 and publishing Date Range Status Contrib Module
+- 👯 I’m looking to collaborate on building drupal contrib modules
+- 💬 Ask me about Drupal CMS, PHP and Acquia Certified Site build
+- How to reach me [Contact](https://www.linkedin.com/in/mahmoud-hanafi-b4831717b/)
+- 📄 Know about my experiences 
+
+Professional Experience:
+[SharedTech](https://www.sharedtech.com.sa/)     [Master works](https://master-works.sa/en)    [DMSEgypt](http://dmsegypt.net/)    [Kinetics](https://www.kineticsegypt.com/)
+
+Connect with me:
+Mahmoud mahmoudsayed_96 mahmoud-sayed-hassan mahmoudsayed96 user0331n
